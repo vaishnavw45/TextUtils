@@ -35,8 +35,9 @@ function TextForm(props) {
             <h3>Preview</h3>
             <p>{text}</p>
         </div>
+        <p>hu</p>
         </>
     )
 
 }
-export default TextForm
+export default TextForm;
